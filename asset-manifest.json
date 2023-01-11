@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.d9446858.chunk.css",
+    "main.js": "/react-gh-pages/static/js/main.2e029422.chunk.js",
+    "main.js.map": "/react-gh-pages/static/js/main.2e029422.chunk.js.map",
+    "runtime-main.js": "/react-gh-pages/static/js/runtime-main.aa091e63.js",
+    "runtime-main.js.map": "/react-gh-pages/static/js/runtime-main.aa091e63.js.map",
+    "static/js/2.09acf405.chunk.js": "/react-gh-pages/static/js/2.09acf405.chunk.js",
+    "static/js/2.09acf405.chunk.js.map": "/react-gh-pages/static/js/2.09acf405.chunk.js.map",
+    "index.html": "/react-gh-pages/index.html",
+    "precache-manifest.7300795201ce71266d5871b07e815123.js": "/react-gh-pages/precache-manifest.7300795201ce71266d5871b07e815123.js",
+    "service-worker.js": "/react-gh-pages/service-worker.js",
+    "static/css/main.d9446858.chunk.css.map": "/react-gh-pages/static/css/main.d9446858.chunk.css.map",
+    "static/js/2.09acf405.chunk.js.LICENSE.txt": "/react-gh-pages/static/js/2.09acf405.chunk.js.LICENSE.txt",
+    "static/media/DAYUNG.jpeg": "/react-gh-pages/static/media/DAYUNG.3b9055cb.jpeg",
+    "static/media/style.scss": "/react-gh-pages/static/media/illustration-section-02.63d0555d.svg",
+    "static/media/dunia.jpeg": "/react-gh-pages/static/media/dunia.40f416ca.jpeg",
+    "static/media/fadel.jpeg": "/react-gh-pages/static/media/fadel.85b77dda.jpeg",
+    "static/media/feature-tile-icon-01.svg": "/react-gh-pages/static/media/feature-tile-icon-01.0f9928d7.svg",
+    "static/media/feature-tile-icon-02.svg": "/react-gh-pages/static/media/feature-tile-icon-02.bd39f304.svg",
+    "static/media/feature-tile-icon-03.svg": "/react-gh-pages/static/media/feature-tile-icon-03.66f37ba5.svg",
+    "static/media/feature-tile-icon-04.svg": "/react-gh-pages/static/media/feature-tile-icon-04.836acd10.svg",
+    "static/media/feature-tile-icon-05.svg": "/react-gh-pages/static/media/feature-tile-icon-05.fa9ba00b.svg",
+    "static/media/feature-tile-icon-06.svg": "/react-gh-pages/static/media/feature-tile-icon-06.6a177696.svg",
+    "static/media/jinglePOrda.jpg": "/react-gh-pages/static/media/jinglePOrda.97bc0dd0.jpg",
+    "static/media/logo.svg": "/react-gh-pages/static/media/logo.2810a88b.svg",
+    "static/media/logoporda.png": "/react-gh-pages/static/media/logoporda.d3d684bc.png",
+    "static/media/maskotporda.png": "/react-gh-pages/static/media/maskotporda.fa30fa68.png",
+    "static/media/strukturkoni.png": "/react-gh-pages/static/media/strukturkoni.e47263a2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aa091e63.js",
+    "static/js/2.09acf405.chunk.js",
+    "static/css/main.d9446858.chunk.css",
+    "static/js/main.2e029422.chunk.js"
+  ]
+}
